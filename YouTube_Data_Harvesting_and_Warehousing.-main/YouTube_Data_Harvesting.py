@@ -31,7 +31,7 @@ import plotly.express as px
 st.set_page_config(layout='wide')
 
 # Title
-st.title(':red[Youtube Data Harvesting]')
+st.title(':green[Youtube Data Harvesting]')
 
 # ========================================   /     Data collection zone and Stored data to MongoDB    /   =================================== #
 
